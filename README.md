@@ -24,3 +24,4 @@ A rota deve receber, pelo header da requisição, uma propriedade `user_id` cont
 
 
 https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72
+https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f
